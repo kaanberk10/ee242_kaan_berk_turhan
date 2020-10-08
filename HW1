@@ -1,0 +1,22 @@
+# ee242_kaan_berk_turhan
+Homework1;
+Main ide's
+1)c
+2)c++
+3)pascal
+4)java support
+5)debuggers from STMielectronics
+6)major 3rd-parties
+
+Toolchains;
+1)IAR® EWARM (IAR Embedded Workbench®)
+2)Keil® MDK-ARM™
+3)GCC-based IDEs (free AC6: SW4STM32, Atollic® TrueSTUDIO®,...)
+
+
+Projects implemented with stm32 ;
+1)https://hackaday.io/project/9181-software-controlled-solenoid-engine              (Software controlled solenoid engine)
+2)https://hackaday.io/project/10457-sunleaf                                         (Sunleaf)
+3)https://hackaday.io/project/4059-handheld-sound-generator                         (Sound generator)
+4)https://hackaday.io/project/3579-12-mbps-communication-link-between-pc-and-mcu    (12 Mbps communication link between PC and MCU)
+5)https://hackaday.io/project/3855-stm32f4-core-board                               (Core board)
